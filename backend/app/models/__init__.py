@@ -1,0 +1,1 @@
+from app.models.parking import Vehicle, ParkingLot, ParkingSlot
