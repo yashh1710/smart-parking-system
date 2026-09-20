@@ -1,0 +1,21 @@
+manufacturer,model,variant,model_year,vehicle_type,length_mm,width_mm,height_mm,wheelbase_mm,source_name,source_url,dimension_notes
+Maruti Suzuki,Alto K10,Current India specification,,Hatchback,3530,1490,1520,2380,Maruti Suzuki India,https://www.marutisuzuki.com/arena/alto-k10/price,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Swift,Current India specification,,Hatchback,3860,1735,1520,2450,Maruti Suzuki India,https://www.marutisuzuki.com/arena/swift/price,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Brezza,Current India specification,,SUV,3995,1790,1685,2500,Maruti Suzuki India,https://www.marutisuzuki.com/arena/brezza/price,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Eeco,Current India specification,,MPV,3675,1475,1825,2350,Maruti Suzuki India,https://www.marutisuzuki.com/arena/eeco/price,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Ertiga,Current India specification,,MPV,4395,1735,1690,2740,Maruti Suzuki India,https://www.marutisuzuki.com/ertiga,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Dzire,Current India specification,,Sedan,3995,1735,1525,2450,Maruti Suzuki India,https://www.marutisuzuki.com/arena/dzire/price,Official Maruti Suzuki dimensions.
+Maruti Suzuki,S-Presso,Current India specification,,Hatchback,3565,1520,1567,2380,Maruti Suzuki India,Official Maruti Suzuki S-Presso specification page,Official Maruti Suzuki dimensions.
+Maruti Suzuki,Baleno,Official Maruti specification,,Hatchback,3995,1745,1510,2520,Maruti Suzuki India,https://www.marutisuzuki.com/autoexpo/brochure/autoexpo-brochure.pdf,Official Maruti Suzuki model specification document; older official document.
+Hyundai,Grand i10 NIOS,Current India specification,,Hatchback,3815,1680,1520,,Hyundai Motor India,https://www.hyundai.com/in/en/find-a-car/grand-i10-nios/highlights,Official Hyundai India dimensions.
+Hyundai,Venue,Current India specification,,SUV,3995,1800,1665,2520,Hyundai Motor India,https://www.hyundai.com/in/en/find-a-car/venue/highlights,Official Hyundai India current Venue dimensions.
+Hyundai,Creta,Current India specification,,SUV,4330,1790,1635,2610,Hyundai Motor India,https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/New-Creta-Brochure.pdf,Official Hyundai India brochure; height shown with roof-rail configuration.
+Hyundai,Verna,Current India specification,,Sedan,4565,1765,1475,2670,Hyundai Motor India,https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/verna.pdf,Official Hyundai India current brochure dimensions.
+Hyundai,Creta Electric,42 kWh / 51.4 kWh,,SUV,4340,1790,1655,2610,Hyundai Motor India,https://www.hyundai.com/in/en/find-a-car/creta-electric/specification,Official Hyundai India dimensions; height listed with roof rails.
+Hyundai,IONIQ 5,Current India specification,,SUV,4655,1890,1625,3000,Hyundai Motor India,https://www.hyundai.com/in/en/find-a-car/ioniq-5/specification,Official Hyundai India dimensions; height excludes shark-fin antenna.
+Kia,Sonet,Current India specification,,SUV,3995,1790,1642,2500,Kia India,https://www.kia.com/in/our-vehicles/sonet/specs.html,Official Kia India page lists 1610/1642 mm depending on configuration; conservative 1642 stored.
+Kia,Seltos,Current India specification,,SUV,4375,1800,1645,2610,Kia India,https://www.kia.com/content/dam/kia2/in/en/content/seltos-manual/topics/chapter9_1.html,Official Kia India manual; dimensions vary by configuration.
+Kia,Carens,Current India specification,,MPV,4545,1800,1723,2780,Kia India,https://www.kia.com/content/dam/kia2/in/en/content/carens-manual/topics/chapter9_1.html,Official Kia India manual; conservative maximum listed height stored.
+Kia,Carens Clavis,Current India specification,,MPV,4550,1800,1708,2780,Kia India,https://www.kia.com/in/our-vehicles/carens-clavis/specs.html,Official Kia India dimensions.
+Mahindra,XUV 3XO,Current India specification,,SUV,3990,1821,1647,2600,Mahindra,https://www.mahindra.com/news-room/press-release/en/mahindra-launches-the-xuv-3xo-the-new-disruptor-in-compact-suvs,Official Mahindra dimensions; height listed with roof rails.
+Mahindra,Thar,Current India specification,,SUV,3985,1820,1855,2450,Mahindra,https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwd39c2522/brochure/Thar-Brochure-2025-NEW.pdf,Official Mahindra 2025 brochure; height varies by configuration; conservative value stored.
